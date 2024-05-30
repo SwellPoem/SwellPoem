@@ -5,7 +5,7 @@
 
 - 📚I’m currently studing at **Sapienza University of Rome**
 
-- 🌱 I’m currently learning **C++, front-end development**
+- 🌱 I’m currently learning **front-end development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SwellPoem](https://github.com/SwellPoem)
 
